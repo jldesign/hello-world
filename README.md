@@ -2,3 +2,5 @@
 Let's learn git
 
 I am trying to understand how git works and how I can incorporate that into my skill set.
+
+05/31/22: Journey log, how the fuck does code server work with git.
