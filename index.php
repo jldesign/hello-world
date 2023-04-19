@@ -1,5 +1,9 @@
-<h1>Hello Wonderfulword!</h1>
-<h2>Let's try updating it</2>
-<3>One more change</h3>
+<?php include('dashboard/header.php'); ?>
 
-<b>this is how we do it</b>
+<div class="container">
+    <div class="row">
+        <h1>Welcome to the begining</h1>
+    </div>
+</div>
+
+<?php include('dashboard/footer.php'); ?>
