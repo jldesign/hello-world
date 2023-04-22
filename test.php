@@ -1,10 +1,11 @@
 <?php include('dashboard/header.php'); ?>
 
+
     <div class="row">
-        <h1>Welcome to the begining</h1>
+        <h1>Testing Page</h1>
     </div>
     <div class="row">
-        <p>Big question is getting FTP to work right on my docker first</p>
+        <p>This is our testing Page.</p>
     </div>
 </div>
 
